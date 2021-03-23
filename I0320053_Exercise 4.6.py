@@ -1,6 +1,6 @@
-#string
+#strings
 
-needle = "WK"
+needle = "pa"
 haystack = "Apa kabar?"
 
 #check
